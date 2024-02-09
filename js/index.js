@@ -24,8 +24,9 @@ import { toDoItemTemplate } from './templates/toDoItem';
 async function appInit() {
     const appData = await getToDoData();
     const toDoItems = Object.values(appData).map((obj) => {
-        return toDoItemTemplate(obj.todo);
+        return toDoItemTemplate(obj);
     });
+    
 
     const div = document.createElement('div');
     toDoItems.forEach((markup) => {
