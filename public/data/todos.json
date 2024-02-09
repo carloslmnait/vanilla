@@ -1,244 +1,244 @@
 {
-	"todos":{
-		"-NqAQx5eLXmmA6UMlsxn": {
-		  "uid": "4f8cccf1",
-		  "category": "health",
-		  "status": "cancelled",
-		  "todo": "Listen to a motivational podcast or audiobook",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-16"
+	"todos": {
+		"-Nq0-HKgW1vW3DGOrox3": {
+			"uid": "23caa103",
+			"category": "school",
+			"status": "completed",
+			"todo": "Create a portfolio website",
+			"start": "2024-02-02",
+			"finish": "2024-02-09"
 		},
-		"-NqAQx5iLRCjwa6lYIp4": {
-		  "uid": "4e35ee07",
-		  "category": "personal",
-		  "status": "cancelled",
-		  "todo": "Schedule dentist appointment",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-16"
+		"-Nq0-HKmx3LobFcu4PPU": {
+			"uid": "48428aa0",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Take a day trip to a nearby nature spot",
+			"start": "2024-01-29",
+			"finish": "2024-02-05"
 		},
-		"-NqAQx5lFi719HrNz3-A": {
-		  "uid": "66e93dc1",
-		  "category": "personal",
-		  "status": "completed",
-		  "todo": "Write a blog post",
-		  "start": "2024-01-31",
-		  "finish": "2024-02-07"
+		"-Nq0-HKqsGo_kOEbQkGg": {
+			"uid": "aba73000",
+			"category": "personal",
+			"status": "in-progress",
+			"todo": "Do laundry",
+			"start": "2024-01-31",
+			"finish": "2024-02-14"
 		},
-		"-NqAQx5pZurL7VB95hQK": {
-		  "uid": "e4f75e1a",
-		  "category": "health",
-		  "status": "in-progress",
-		  "todo": "Take a nap for 20 minutes",
-		  "start": "2024-02-04",
-		  "finish": "2024-02-18"
+		"-Nq0-HKva6YWqWXQu7pZ": {
+			"uid": "fed72fb8",
+			"category": "school",
+			"status": "in-progress",
+			"todo": "Build a personal blog",
+			"start": "2024-01-30",
+			"finish": "2024-02-20"
 		},
-		"-NqAQx5sPtF41JNcs88M": {
-		  "uid": "ca10510b",
-		  "category": "personal",
-		  "status": "in-progress",
-		  "todo": "Call mom",
-		  "start": "2024-02-04",
-		  "finish": "2024-02-11"
+		"-Nq0-HL-BVeDRcRt3lyV": {
+			"uid": "0cc0f2d0",
+			"category": "school",
+			"status": "completed",
+			"todo": "Learn version control with Git",
+			"start": "2024-02-05",
+			"finish": "2024-02-12"
 		},
-		"-NqAQx5wTznbPb3KwEDh": {
-		  "uid": "a613be55",
-		  "category": "health",
-		  "status": "cancelled",
-		  "todo": "Practice gratitude by listing 5 things you're thankful for",
-		  "start": "2024-01-31",
-		  "finish": "2024-02-14"
+		"-Nq0-HL44xg3_spIcN85": {
+			"uid": "033407e3",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Practice mindfulness for 15 minutes",
+			"start": "2024-02-03",
+			"finish": "2024-02-17"
 		},
-		"-NqAQx5z2EJPdAFEJrR8": {
-		  "uid": "09f65fa7",
-		  "category": "school",
-		  "status": "cancelled",
-		  "todo": "Practice responsive typography",
-		  "start": "2024-02-01",
-		  "finish": "2024-02-22"
+		"-Nq0-HL8OuJn8IMOplOm": {
+			"uid": "bf752c66",
+			"category": "personal",
+			"status": "cancelled",
+			"todo": "Write a blog post",
+			"start": "2024-02-02",
+			"finish": "2024-02-23"
 		},
-		"-NqAQx627_pAI0V3f4sF": {
-		  "uid": "1b159b87",
-		  "category": "personal",
-		  "status": "cancelled",
-		  "todo": "Call mom",
-		  "start": "2024-01-31",
-		  "finish": "2024-02-07"
+		"-Nq0-HLET3bKpFk73tMf": {
+			"uid": "d3284b6a",
+			"category": "school",
+			"status": "in-progress",
+			"todo": "Master CSS preprocessors (e.g.",
+			"start": "2024-02-05",
+			"finish": "2024-02-26"
 		},
-		"-NqAQx65CMd7_sqnhXxu": {
-		  "uid": "3ea4bac0",
-		  "category": "health",
-		  "status": "completed",
-		  "todo": "Do a puzzle or brain teaser",
-		  "start": "2024-01-31",
-		  "finish": "2024-02-14"
+		"-Nq0-HLJVHR9y0EJe12y": {
+			"uid": "d6b44fda",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Design a responsive website",
+			"start": "2024-01-30",
+			"finish": "2024-02-13"
 		},
-		"-NqAQx68FvbTiINDrHn5": {
-		  "uid": "78ee15a4",
-		  "category": "school",
-		  "status": "cancelled",
-		  "todo": "Learn about cross-browser compatibility",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-23"
+		"-Nq0-HLObMLToVa5LzSq": {
+			"uid": "1ebbf53d",
+			"category": "work",
+			"status": "in-progress",
+			"todo": "Optimize CSS stylesheets",
+			"start": "2024-01-30",
+			"finish": "2024-02-20"
 		},
-		"-NqAQx6BtDyWEYNx_4dt": {
-		  "uid": "626c2d5c",
-		  "category": "personal",
-		  "status": "in-progress",
-		  "todo": "Read a book",
-		  "start": "2024-02-05",
-		  "finish": "2024-02-19"
+		"-Nq0-HLT86JyiNoEGeE3": {
+			"uid": "8b19434b",
+			"category": "work",
+			"status": "cancelled",
+			"todo": "Create a newsletter subscription form",
+			"start": "2024-01-29",
+			"finish": "2024-02-05"
 		},
-		"-NqAQx6F_jfk864u5lf3": {
-		  "uid": "cfe942e2",
-		  "category": "school",
-		  "status": "completed",
-		  "todo": "Experiment with CSS preprocessors",
-		  "start": "2024-01-30",
-		  "finish": "2024-02-13"
+		"-Nq0-HLY6MkPDeEcXevp": {
+			"uid": "d89c071d",
+			"category": "health",
+			"status": "completed",
+			"todo": "Have a digital detox for 1 hour",
+			"start": "2024-01-29",
+			"finish": "2024-02-12"
 		},
-		"-NqAQx6Idf5g3H2yVu4S": {
-		  "uid": "ba49ae67",
-		  "category": "school",
-		  "status": "cancelled",
-		  "todo": "Create a responsive navigation menu",
-		  "start": "2024-02-06",
-		  "finish": "2024-02-27"
+		"-Nq0-HLdbPKR9D8VDmIi": {
+			"uid": "807dde1d",
+			"category": "health",
+			"status": "in-progress",
+			"todo": "Try a new healthy recipe",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
 		},
-		"-NqAQx6LKai3L0AtmPgA": {
-		  "uid": "234287b2",
-		  "category": "school",
-		  "status": "completed",
-		  "todo": "Design a responsive website",
-		  "start": "2024-01-30",
-		  "finish": "2024-02-06"
+		"-Nq0-HLi1-Yl7rkaKEFs": {
+			"uid": "c83034f5",
+			"category": "health",
+			"status": "in-progress",
+			"todo": "Practice deep breathing exercises",
+			"start": "2024-02-04",
+			"finish": "2024-02-18"
 		},
-		"-NqAQx6Oflc-xT7Nqy5r": {
-		  "uid": "83cc396c",
-		  "category": "personal",
-		  "status": "cancelled",
-		  "todo": "Go for a run",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-23"
+		"-Nq0-HLnqP7VYG8USx2a": {
+			"uid": "b41ad433",
+			"category": "personal",
+			"status": "cancelled",
+			"todo": "Take a yoga class",
+			"start": "2024-01-30",
+			"finish": "2024-02-20"
 		},
-		"-NqAQx6SgdiNW2TMLQL6": {
-		  "uid": "c3c68176",
-		  "category": "work",
-		  "status": "completed",
-		  "todo": "Style navigation bar",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-09"
+		"-Nq0-HLsCEvL21hSNVPN": {
+			"uid": "ed5e3b5e",
+			"category": "health",
+			"status": "completed",
+			"todo": "Try a new form of art therapy",
+			"start": "2024-02-01",
+			"finish": "2024-02-08"
 		},
-		"-NqAQx6V5DPXjqiEz1nE": {
-		  "uid": "31a4a3a6",
-		  "category": "personal",
-		  "status": "completed",
-		  "todo": "Finish work presentation",
-		  "start": "2024-01-29",
-		  "finish": "2024-02-05"
+		"-Nq0-HLx607kQsfl1nA3": {
+			"uid": "971899e8",
+			"category": "health",
+			"status": "completed",
+			"todo": "Take a hot bath with essential oils",
+			"start": "2024-02-01",
+			"finish": "2024-02-15"
 		},
-		"-NqAQx6Ydcn348jXIFrG": {
-		  "uid": "c0f82277",
-		  "category": "health",
-		  "status": "in-progress",
-		  "todo": "Read a book for 30 minutes",
-		  "start": "2024-02-04",
-		  "finish": "2024-02-25"
+		"-Nq0-HM1UHhFYhqkJDqd": {
+			"uid": "07d03cf0",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Master CSS preprocessors (e.g.",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
 		},
-		"-NqAQx6bS4tL4eqbGDx0": {
-		  "uid": "da7dcd2e",
-		  "category": "personal",
-		  "status": "in-progress",
-		  "todo": "Attend yoga class",
-		  "start": "2024-01-29",
-		  "finish": "2024-02-12"
+		"-Nq0-HM67l9YQW7xyiY3": {
+			"uid": "9439fbf6",
+			"category": "health",
+			"status": "in-progress",
+			"todo": "Try a new form of art therapy",
+			"start": "2024-02-02",
+			"finish": "2024-02-09"
 		},
-		"-NqAQx6eNcCvF6eHGEb9": {
-		  "uid": "c8f082f7",
-		  "category": "school",
-		  "status": "completed",
-		  "todo": "Learn version control with Git",
-		  "start": "2024-02-06",
-		  "finish": "2024-02-13"
+		"-Nq0-HMB6jvYNvZqwLV_": {
+			"uid": "e31c4d63",
+			"category": "work",
+			"status": "cancelled",
+			"todo": "Design a responsive grid system",
+			"start": "2024-02-04",
+			"finish": "2024-02-25"
 		},
-		"-NqAQx6hkxIgC4TK1UiB": {
-		  "uid": "06239cdc",
-		  "category": "work",
-		  "status": "completed",
-		  "todo": "Style navigation bar",
-		  "start": "2024-02-07",
-		  "finish": "2024-02-28"
+		"-Nq0-HMGG8qdxUfYLS8x": {
+			"uid": "ebc4f0e6",
+			"category": "personal",
+			"status": "completed",
+			"todo": "Call mom",
+			"start": "2024-01-30",
+			"finish": "2024-02-13"
 		},
-		"-NqAQx6klcLgp_NC4a1A": {
-		  "uid": "d1b497b9",
-		  "category": "work",
-		  "status": "in-progress",
-		  "todo": "Add tooltips",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-16"
+		"-Nq0-HMLBdws9-mG-57e": {
+			"uid": "be406ad4",
+			"category": "health",
+			"status": "completed",
+			"todo": "Meditate for 10 minutes",
+			"start": "2024-02-05",
+			"finish": "2024-02-19"
 		},
-		"-NqAQx6okv7hD8wRJ2e3": {
-		  "uid": "6627df74",
-		  "category": "personal",
-		  "status": "in-progress",
-		  "todo": "Plan weekend trip",
-		  "start": "2024-02-06",
-		  "finish": "2024-02-27"
+		"-Nq0-HMQ08nFPRGoep8-": {
+			"uid": "69a5ec2e",
+			"category": "personal",
+			"status": "cancelled",
+			"todo": "Go to the gym",
+			"start": "2024-02-01",
+			"finish": "2024-02-15"
 		},
-		"-NqAQx6rkYNHdOY0g9Ka": {
-		  "uid": "2b0b687f",
-		  "category": "work",
-		  "status": "cancelled",
-		  "todo": "Fix broken image links",
-		  "start": "2024-02-03",
-		  "finish": "2024-02-17"
+		"-Nq0-HMW_aSP81eaFdy7": {
+			"uid": "cc3d2ad9",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Learn version control with Git",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
 		},
-		"-NqAQx6uFCzQ6ZGUcFPg": {
-		  "uid": "0cc58e2e",
-		  "category": "health",
-		  "status": "completed",
-		  "todo": "Do a digital detox for 1 hour",
-		  "start": "2024-02-04",
-		  "finish": "2024-02-11"
+		"-Nq0-HMarO77iR3_BSsn": {
+			"uid": "005276f8",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Have a technology-free evening",
+			"start": "2024-02-03",
+			"finish": "2024-02-24"
 		},
-		"-NqAQx6yCUIH09zKLYyb": {
-		  "uid": "e3b298e3",
-		  "category": "school",
-		  "status": "completed",
-		  "todo": "Collaborate on a group project",
-		  "start": "2024-01-30",
-		  "finish": "2024-02-06"
+		"-Nq0-HMfQoyfYDG7BQxc": {
+			"uid": "9a825c48",
+			"category": "work",
+			"status": "cancelled",
+			"todo": "Implement a sticky header",
+			"start": "2024-01-30",
+			"finish": "2024-02-13"
 		},
-		"-NqAQx702phg2-TvTbD4": {
-		  "uid": "f3fbbfe2",
-		  "category": "personal",
-		  "status": "cancelled",
-		  "todo": "Call mom",
-		  "start": "2024-02-05",
-		  "finish": "2024-02-19"
+		"-Nq0-HMkX33nJ8BkeINv": {
+			"uid": "a474bc7b",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Do a random act of kindness",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
 		},
-		"-NqAQx73UC24mp3X2k-r": {
-		  "uid": "a08cfe2d",
-		  "category": "personal",
-		  "status": "completed",
-		  "todo": "Visit a museum",
-		  "start": "2024-01-29",
-		  "finish": "2024-02-19"
+		"-Nq0-HMqMrc_akXeStN_": {
+			"uid": "57fc4e95",
+			"category": "work",
+			"status": "in-progress",
+			"todo": "Create a slideshow",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
 		},
-		"-NqAQx77jpcybBfElFVV": {
-		  "uid": "0f6b1c93",
-		  "category": "school",
-		  "status": "cancelled",
-		  "todo": "Explore UI/UX design principles",
-		  "start": "2024-02-07",
-		  "finish": "2024-02-28"
+		"-Nq0-HMvpmNotSx_pEu2": {
+			"uid": "d93a03ee",
+			"category": "work",
+			"status": "completed",
+			"todo": "Design a landing page",
+			"start": "2024-01-30",
+			"finish": "2024-02-06"
 		},
-		"-NqAQx7A-JeA94QZR4Fy": {
-		  "uid": "729f9ef7",
-		  "category": "work",
-		  "status": "completed",
-		  "todo": "Style pagination",
-		  "start": "2024-02-02",
-		  "finish": "2024-02-16"
+		"-Nq0-HN-fdozMjLPbV6x": {
+			"uid": "1da15023",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Take a dance class",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
 		}
-	  }
+	}
 }
